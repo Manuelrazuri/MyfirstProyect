@@ -11,6 +11,26 @@
   justify-content: center;
   align-items: center;
 }
+.image_dino {
+  width: 10%;
+  display: flex;
+  height: 300px;
+  justify-content: start;
+}
+
+.image_dinotwo {
+  width: 10%;
+  display: flex;
+  height: 300px;
+  justify-content: start;
+}
+
+.image_dinothree {
+  width: 10%;
+  display: flex;
+  height: 300px;
+  justify-content: start;
+}
 .title_container_two {
   background-image: url(IMG/corazon.gif);
   background-position: center;
