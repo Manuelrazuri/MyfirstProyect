@@ -21,14 +21,14 @@
 .image_dinotwo {
   width: 10%;
   display: flex;
-  height: 300px;
+  height: 200px;
   justify-content: start;
 }
 
 .image_dinothree {
   width: 10%;
   display: flex;
-  height: 300px;
+  height: 100px;
   justify-content: start;
 }
 .title_container_two {
